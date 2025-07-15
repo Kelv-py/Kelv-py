@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Kelvin Ndirangu
 
-<!--
-**Kelv-py/Kelv-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 DevOps | Cloud Automation | AI Workflows Engineer**
 
-Here are some ideas to get you started:
+I'm a DevOps-focused automation engineer passionate about simplifying workflows using tools like **n8n**, **Docker**, and **FastAPI**. With hands-on experience deploying secure systems on **GCP**,**AWS**,and **Oracle**, building **LLM-powered assistants**, and integrating **CI/CD pipelines**, I help businesses streamline operations and scale using modern cloud-native tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🛠️ Tech Stack**
+- ⚙️ **Automation**: n8n, Zapier, LangChain, GoHighLevel
+- ☁️ **Cloud & DevOps**: GCP Compute, Docker, NGINX, SSL, GitHub Actions
+- 🔍 **AI / LLM**: Gemini API, Qdrant, FastAPI, OpenWebUI
+- 🌐 **Web & Scripting**: Python, JavaScript, Bash
+- 🛡️ **Monitoring & Infra**: Uptime monitoring, reverse proxy, firewall rules
+
+
+
+**🔧 Recent Projects**
+- **LLM Chatbot Assistant**: Built a Gemini + Qdrant powered doc-based chatbot with FastAPI + n8n for Telegram
+- **GCP Secure Automation Platform**: Deployed n8n behind NGINX reverse proxy with SSL and webhook protection
+- **eCommerce Insights**: Built a Jumia scraper with CSV export and dashboard view of bestsellers
+- **CRM Automation**: Integrated GoHighLevel workflows, reducing manual overhead by 40%
+
+
+**📈 Goals for 2025**
+- 🧠 Improve AI workflow orchestration with LangGraph & event-driven LLMs  
+- ☁️ Deploy full CI/CD pipelines with Kubernetes and other CI/CD tools
+- 🤝 Collaborate on open-source automation tools
+
+
+**📫 Let's Connect**
+- ✉️ kevodirangu@gmail.com
+- GMT +3, available remote
