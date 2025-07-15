@@ -9,7 +9,7 @@ I'm a DevOps-focused automation engineer passionate about simplifying workflows 
 - ⚙️ **Automation**: n8n, Zapier, LangChain, GoHighLevel
 - ☁️ **Cloud & DevOps**: GCP, AWS, OCI, Docker, NGINX, SSL, GitHub Actions
 - 🔍 **AI / LLM**: Gemini API, Qdrant,Pinecone, FastAPI, OpenWebUI
-- 🌐 **Web & Scripting**: Python, JavaScript, Bash
+- 🌐 **Web & Scripting**: Python, JavaScript, CSS/HTML, Bash
 - 🛡️ **Monitoring & Infra**: Uptime monitoring, reverse proxy, firewall rules
 
 
