@@ -6,11 +6,11 @@ I'm a DevOps-focused automation engineer passionate about simplifying workflows 
 
 
 **🛠️ Tech Stack**
-- ⚙️ **Automation**: n8n, Zapier, LangChain, GoHighLevel
-- ☁️ **Cloud & DevOps**: GCP, AWS, OCI, Docker, NGINX, SSL, GitHub Actions
-- 🔍 **AI / LLM**: Gemini API, Qdrant,Pinecone, FastAPI, OpenWebUI
-- 🌐 **Web & Scripting**: Python, JavaScript, CSS/HTML, Bash
-- 🛡️ **Monitoring & Infra**: Uptime monitoring, reverse proxy, firewall rules
+- **Automation**: n8n, Zapier, LangChain, GoHighLevel
+- **Cloud & DevOps**: GCP, AWS, OCI, Docker, NGINX, SSL, GitHub Actions
+- **AI / LLM**: Gemini API, Qdrant,Pinecone, FastAPI, OpenWebUI
+- **Web & Scripting**: Python, JavaScript, CSS/HTML, Bash
+- **Monitoring & Infra**: Uptime monitoring, reverse proxy, firewall rules
 
 
 
@@ -21,12 +21,12 @@ I'm a DevOps-focused automation engineer passionate about simplifying workflows 
 - **CRM Automation**: Integrated GoHighLevel workflows, reducing manual overhead by 40%
 
 
-**📈 Goals for 2025**
-- 🧠 Improve AI workflow orchestration with LangGraph & event-driven LLMs  
-- ☁️ Deploy full CI/CD pipelines with Kubernetes and other CI/CD tools
-- 🤝 Collaborate on open-source automation tools
+**Goals for 2025**
+- Improve AI workflow orchestration with LangGraph & event-driven LLMs  
+- Deploy full CI/CD pipelines with Kubernetes and other CI/CD tools
+- Collaborate on open-source automation tools
 
 
-**📫 Let's Connect**
+**Let's Connect**
 - ✉️ kevodirangu@gmail.com
 - GMT +3, available remote
