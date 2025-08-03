@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kelvin Ndirangu
 
-**🚀 DevOps | Cloud Automation | AI Workflows Engineer**
+**DevOps | Cloud Automation | AI Workflows Engineer**
 
 I'm a DevOps-focused automation engineer passionate about simplifying workflows using tools like **n8n**, **Docker**, and **FastAPI**. With hands-on experience deploying secure systems on **GCP**,**AWS**,and **OCI**, building **LLM-powered assistants**, and integrating **CI/CD pipelines**, I help businesses streamline operations and scale using modern cloud-native tools.
 
