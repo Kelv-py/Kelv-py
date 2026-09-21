@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Kelvin Ndirangu
 
-**DevOps | Cloud Automation | AI Workflows Engineer**
+**AI Automation Engineer | AIOps | Cloud**
 
-I'm a DevOps-focused automation developer passionate about simplifying workflows using tools like **n8n**, **Docker**, and **FastAPI**. With hands-on experience deploying secure systems on **GCP**,**AWS**,and **OCI**, building **LLM-powered assistants**, and integrating **CI/CD pipelines**, I help businesses streamline operations and scale using modern cloud-native tools.
+I'm a DevOps-focused automation developer passionate about simplifying workflows using Agentic AI and tools like **n8n**, **Docker**, and **Python**. With hands-on experience deploying secure systems on **GCP**,**AWS**,and **OCI**, building **LLM-powered assistants**, **RAG Systems** and integrating **CI/CD pipelines**, I help businesses streamline operations and scale using modern AI-native tools.
 
 
 **🛠️ Tech Stack**
-- **Automation**: n8n, Zapier, LangChain, GoHighLevel
-- **Cloud & DevOps**: GCP, AWS, OCI, Docker, NGINX, SSL, GitHub Actions
+- **Automation**: n8n, Zapier, LangChain, GoHighLevel, OpenClaw
+- **Cloud & DevOps**: GCP, AWS, OCI, Docker, Kubernetes, Git
 - **AI / LLM**: Gemini API, Qdrant,Pinecone, FastAPI, OpenWebUI
 - **Web & Scripting**: Python, JavaScript, CSS/HTML, Bash
-- **Monitoring & Infra**: Uptime monitoring, reverse proxy, firewall rules
+- **Monitoring & Infra**: Cloudflare, Ngrok, Nginx, 
 
 
 
